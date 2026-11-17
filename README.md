@@ -206,7 +206,7 @@ git ls-tree -r --name-only origin/main | grep -E '^infra/terraform/envs/' | cut 
 
 The samples are adapted from production code. Identifiers are replaced with placeholders, and internal helpers are replaced with clearly named stubs. They are syntactically valid (`py_compile`, `terraform validate`) but aren't packaged to run.
 
-The full codebase is private. I'm happy to walk through it on a call; you can reach me through [9poundhammer.com](https://9poundhammer.com).
+The full codebase is private. I'm happy to walk through it on a call.
 
 ---
 
